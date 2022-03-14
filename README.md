@@ -1,3 +1,4 @@
+![HTML](https://img.shields.io/badge/HTML-HTML5-yellow) ![Javascript](https://img.shields.io/badge/Javascript-ES6-yellow)
 ## About The Project
 This was an assignment given during coding bootcamp.
 
